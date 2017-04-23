@@ -4,6 +4,6 @@ myworker.onmessage=function (oEvent) {
 }
 
 
-myworker.postMessage('h3x')
+myworker.postMessage('start')
 // myworker.postMessage('h3x');
 
